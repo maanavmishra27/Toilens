@@ -1,0 +1,10 @@
+{
+  "description": "Create customizable templates quickly and easily to streamline your design process and enhance productivity for professionals and creatives.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
